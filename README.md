@@ -1,3 +1,4 @@
+This repo explains how to train Yolo_v5 on custom dataset 
 # YOLO_v5
 1. The custom dataset folder must have two sub-folders 1)images 2)labels
 
@@ -17,5 +18,5 @@ upload this custom_data.yaml in the data sub-folder in YOLO folder.
 # dataset used in the notebook
 http://bit.ly/zjuleaper
 
-this repo explains how to train Yolo_v5 on custom dataset 
+
 
