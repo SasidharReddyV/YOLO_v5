@@ -11,7 +11,7 @@ This repo explains how to train Yolo_v5 on custom dataset
 
 # custom_data.yaml
 download the custom_data.yaml from the repo and edit the path to the train, validation and test(optional) datasets.
-edit the number of classes present in the dataset to segmentd and name the classes in names list.
+edit the number of classes present in the dataset to segment and name the classes in names list.
 upload this custom_data.yaml in the data sub-folder in YOLO folder.
 
 
